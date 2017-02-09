@@ -1,0 +1,5 @@
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\bin\Debug\XMLRPC ScanList.exe.config
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\bin\Debug\XMLRPC ScanList.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\bin\Debug\XMLRPC ScanList.pdb
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\obj\Debug\XMLRPC ScanList.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\obj\Debug\XMLRPC ScanList.pdb

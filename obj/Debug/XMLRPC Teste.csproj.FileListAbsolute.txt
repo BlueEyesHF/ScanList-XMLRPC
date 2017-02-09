@@ -1,0 +1,6 @@
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\bin\Debug\XMLRPC Teste.exe.config
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\bin\Debug\XMLRPC Teste.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\bin\Debug\XMLRPC Teste.pdb
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\obj\Debug\XMLRPC Teste.csprojResolveAssemblyReference.cache
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\obj\Debug\XMLRPC Teste.exe
+C:\Users\BlueEyes\Documents\Visual Studio 2017\Projects\XMLRPC Teste\XMLRPC Teste\obj\Debug\XMLRPC Teste.pdb
